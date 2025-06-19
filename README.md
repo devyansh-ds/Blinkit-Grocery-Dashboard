@@ -12,6 +12,7 @@ The dashboard is built upon a dataset containing sales and order information fro
 - Number of items sold
 - Product categories (e.g., "low fat," "high fat" content)
 - Customer ratings
+
 The data originates from Blinkit's transactional database or an export thereof, processed and prepared within Power BI for analysis.
 
 ## 4. Features / Highlights
@@ -43,4 +44,4 @@ This dashboard empowers Blinkit's stakeholders to:
 - **Support Data-Driven Decisions:** Provide clear, visual insights that serve as a foundation for strategic planning, marketing efforts, and operational adjustments.
 
 ## 5. Screenshot
-![Dashboard Preview]([Blinkit Grocery-Dashboard.png](https://github.com/devyansh-ds/Blinkit-Grocery-Dashboard/blob/8415c7603c364db99f89a5f736a48ddcd4715207/Blinkit%20Grocery-Dashboard.png))
+![Alt text](https://github.com/devyansh-ds/Blinkit-Grocery-Dashboard/blob/main/Blinkit%20Grocery-Dashboard.png)
